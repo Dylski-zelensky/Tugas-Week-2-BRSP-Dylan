@@ -24,7 +24,7 @@ hasil analisis jaringan PPI
 
 Analisis topologi jaringan dilakukan untuk mengevaluasi posisi dan tingkat kepentingan setiap protein dalam jaringan PPI melalui parameter *degree, betweenness centrality, dan closeness centrality* (Tabel 1). Nilai degree digunakan untuk menunjukkan banyaknya hubungan langsung yang dimiliki suatu protein, sedangkan *betweenness centrality* mengukur kontribusi protein sebagai penghubung antarnode dalam jaringan. Adapun *closeness centrality* menunjukkan seberapa dekat suatu protein terhadap protein lain, sehingga mencerminkan kemampuannya dalam berkomunikasi secara efisien di dalam jaringan. Hasil analisis menunjukkan bahwa TNF memperoleh nilai tertinggi untuk seluruh parameter yang diamati, menandakan bahwa protein tersebut memiliki posisi paling sentral sekaligus menjadi titik interaksi utama di antara protein lainnya. Sebaliknya, MET, CYP2C19, dan G6PD memiliki tingkat konektivitas dan sentralitas yang lebih rendah, meskipun masih berkontribusi terhadap terbentuknya jaringan interaksi protein. Dengan demikian, TNF diperkirakan berperan penting dalam regulasi proses biologis yang berkaitan dengan malaria dan berpotensi menjadi target molekuler utama dari senyawa aktif daun pepaya. 
 
-![Gambar 2. Jaringan Protein-Protein Interaction (PPI) dari 4 gen irisan hasil konstruksi STRING](PPI%20NETWORK.png) 
+![Gambar 2. Jaringan Protein-Protein Interaction (PPI) dari 4 gen irisan hasil konstruksi STRING](PPI NETWORK.png)
 
 ![][image3]   
 Gambar 3\. Visualisasi Jaringan Interaksi Pathway-Target-Senyawa
