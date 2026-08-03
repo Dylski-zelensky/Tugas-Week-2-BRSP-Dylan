@@ -26,6 +26,8 @@ Analisis topologi jaringan dilakukan untuk mengevaluasi posisi dan tingkat kepen
 
 ![Gambar 2. Jaringan Protein-Protein Interaction (PPI) dari 4 gen irisan hasil konstruksi STRING](PPI%20NETWORK.png)
 
+**
+
 ![Gambar 3. Visualisasi Jaringan Interaksi Pathway-Target-Senyawa](Gambar%20Network.png)
 
 Visualisasi jaringan interaksi pathway–target–senyawa menunjukkan hubungan antara dua pathway, yaitu Malaria dan Central carbon metabolism in cancer, dengan empat protein target (G6PD, TNF, MET, dan CYP2C19) serta dua senyawa aktif, yaitu beta-cryptoxanthin dan citroxanthin. Pathway Malaria terhubung dengan protein TNF, MET, dan CYP2C19, sedangkan Central carbon metabolism in cancer berhubungan dengan G6PD dan CYP2C19. Di sisi lain, beta-cryptoxanthin diprediksi berinteraksi dengan G6PD, TNF, dan CYP2C19, sementara citroxanthin berinteraksi dengan TNF dan MET. Dari pola konektivitas tersebut, TNF tampak sebagai protein dengan peran sentral karena menjadi target bersama kedua senyawa sekaligus terlibat dalam pathway Malaria, sehingga mengindikasikan bahwa TNF berpotensi menjadi titik konvergensi mekanisme aksi kedua senyawa terhadap penyakit tersebut. Sebaliknya, G6PD hanya berinteraksi dengan beta-cryptoxanthin dan terhubung dengan pathway Central carbon metabolism in cancer, yang menunjukkan adanya mekanisme aksi yang lebih spesifik pada senyawa tersebut. Secara keseluruhan, jaringan ini menggambarkan bahwa beta-cryptoxanthin memiliki spektrum interaksi yang lebih luas dibandingkan citroxanthin, sedangkan TNF dan G6PD merupakan protein yang berpotensi berperan penting dalam menjembatani hubungan antara senyawa aktif dengan pathway yang teridentifikasi. 
