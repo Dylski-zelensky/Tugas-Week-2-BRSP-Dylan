@@ -7,7 +7,7 @@
 
 Dari 17 senyawa pada daun pepaya yang dibandingkan, diambil 2 senyawa yang dinilai paling unggul, yaitu Citroxanthin dan Beta-cryptoxanthin. Kode SMILES kemudian dicari menggunakan PubChem dan dicari prediksi target proteinnya menggunakan SwissTargetPrediction. Daftar gen yang berkaitan dengan malaria juga dicari menggunakan OMIM. Dari gabungan antara senyawa dan target, dicari irisan antara keduanya sehingga diperoleh protein yang relevan. Kemudian, hubungan antara protein divisualisasikan menggunakan STRING pada confidence ≥ 0,400 karena tidak ditemukan hubungan pada confidence yang lebih tinggi.   
 
-![Gambar 1. Irisan Senyawa Daun Pepaya dengan Gen Target Malaria](IrisanVenn.png)
+![Gambar 1. Irisan Senyawa Daun Pepaya dengan Gen Target Malaria](Irisan-Venn.png)
 
 	Diagram Venn pada Gambar 1 menunjukkan hasil pemetaan antara target protein senyawa aktif daun pepaya dengan gen yang terkait malaria. Hasil analisis mengidentifikasi 4 gen yang berada pada area irisan, menunjukkan adanya kesamaan target antara kedua kelompok. Sementara itu, terdapat 137 target yang hanya dimiliki oleh senyawa aktif daun pepaya dan 88 gen yang secara spesifik berhubungan dengan malaria. Keberadaan gen-gen yang saling beririsan tersebut mengindikasikan kemungkinan keterlibatan senyawa daun pepaya dalam memengaruhi proses biologis yang berkaitan dengan penyakit malaria. Selanjutnya, gen hasil irisan digunakan sebagai input pada database STRING untuk membangun jaringan interaksi protein, yang kemudian dianalisis menggunakan Cytoscape guna menentukan protein dengan tingkat konektivitas tertinggi (hub protein) berdasarkan algoritma Degree pada plugin cytoHubba.
 
